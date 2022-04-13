@@ -1,1 +1,1 @@
-# jdscx_discordpost
+# JDSCX Discordpost
